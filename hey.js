@@ -3,7 +3,7 @@ let bmi = weight / ( height * height);
 return bmi;
 
 }
-function interprateBmi(bmi) 
+function interpretbmi (bmi) 
 if(bmi<18.5) {  
 
 return "underweight";
